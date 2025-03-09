@@ -12,7 +12,7 @@ while Proceso == True:#Ciclo para repetir el proceso
     elif Operacion == "/" and Num2 != 0:#Si el segundo numero es 0 no se puede realizar la división
         print("El resultado de la división es: ",Num1/Num2)
     else:
-        print("Operación no válida, intentelo de nuevo")
+        print("Operación no válida, intentelo de nuevo")#Mensaje de error si no se ingreso ninguna operacion valida
     if input("Desea continuar o salir: ") == "salir" or "Salir":#Condicion para salir del ciclo
         Proceso = False
 print("Fin del programa")
