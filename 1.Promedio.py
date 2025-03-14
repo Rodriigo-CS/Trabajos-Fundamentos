@@ -1,4 +1,4 @@
-CantNum = int(input("Ingrese la cantidad de números va a promediar: "))
+CantNum = int(input("Ingrese la cantidad de números a promediar: "))
 Promedio = 0
 Cantidad = 0
 for i in range(CantNum):
