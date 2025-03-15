@@ -1,4 +1,4 @@
-Num = int(input("Ingrese un número: "))
+Num = int(input("Ingrese hasta que número analizará su divisores: "))
 for i in range(1, Num + 1):
     if i % 2 == 0:
         Divisores = str("Es divisible por ") + str(2)
