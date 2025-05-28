@@ -6,7 +6,6 @@ A = np.array([
     [0.2, 0.5, 0.3],
     [0.1, 0.2, 0.7]
 ])
-
 # Términos independientes
 b = np.array([40, 30, 20])
 
