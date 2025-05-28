@@ -3,7 +3,6 @@ b = []
 c = []
 print("Bienvenido")
 print("Este programa resolvera un sistema de ecuaciones lineales 3x3 usando GAUSS-JORDAN")
-
 for i in range (4):
     k  = 1 #Numero de ecuacion
     Variables = ["x", "y", "z"]

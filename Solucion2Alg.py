@@ -6,7 +6,6 @@ matriz = np.array([
     [0.2, 0.5, 0.3, 30],
     [0.1, 0.2, 0.7, 20]
 ], dtype=float)
-
 # Eliminación de Gauss
 n = 3
 for i in range(n):
