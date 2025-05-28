@@ -4,7 +4,6 @@ import random as rnd
 n = int(input("Ingresa la cantidad de elementos de la lista: "))
 X = []
 Y = []
-
 for i in range(n):
     X.append(rnd.random())
     Y.append(rnd.random())
